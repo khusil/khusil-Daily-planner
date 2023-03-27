@@ -16,4 +16,7 @@ found some spelling mistakes that crashed the code
 
 
 
-## link to url 
+## link to Git URL
+
+https://github.com/khusil/khusil-Daily-planner.git
+
